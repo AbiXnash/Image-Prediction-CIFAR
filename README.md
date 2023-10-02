@@ -1,4 +1,4 @@
-### **Project Title:** CIFAR-10 Image Prediction
+# **Project Title:** CIFAR-10 Image Prediction
 
 ### **Description:**
 This GitHub repository hosts my comprehensive CIFAR-10 image prediction project, which I completed as part of the SmartKnower program. CIFAR-10 is a widely used dataset in computer vision, consisting of 60,000 32x32 color images from 10 different classes. The primary goal of this project was to develop a deep learning model capable of accurately classifying these images into their respective categories.
